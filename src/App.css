@@ -1,0 +1,28 @@
+* {
+  background-color: rgb(248, 154, 154);
+  margin: 20px auto;
+}
+
+.App {
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: rgb(189, 236, 128);
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+  border: 2px dotted rgb(181, 241, 232);
+}
+
+button {
+  margin: 10px;
+}
